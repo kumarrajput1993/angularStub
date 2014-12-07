@@ -1,0 +1,1 @@
+All the angular components structured functionally together.
