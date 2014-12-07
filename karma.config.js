@@ -30,13 +30,13 @@ module.exports = function(config) {
             'app/bower_components/lodash/dist/lodash.js',
             'app/bower_components/angular-loading-bar/build/loading-bar.js',
             'http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0&mkt=en-in',
-            'app/js/*.module.js',
-            'app/js/**/*.js',
-            'app/js/*.js',
+            'app/components/*.module.js',
+            'app/components/**/*.js',
+            'app/components/*.js',
             'app/Tests/**/*.js',
             'app/Tests/*.js',
-            'app/html/*.html',
-            'app/html/**/*.html',
+            'app/components/*.html',
+            'app/components/**/*.html',
             'i18n/*.js'
         ],
 
