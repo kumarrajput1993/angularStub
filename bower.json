@@ -1,0 +1,28 @@
+{
+  "name": "app",
+  "version": "0.0.0",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "angular-bootstrap": "~0.11.0",
+    "bootstrap": "~3.2.0",
+    "ngGeolocation": "~0.0.4",
+    "angular-ui-router": "~0.2.11",
+    "ui-router-extras": "~0.0.10",
+    "angular-mocks": "~1.2.26",
+    "angular-cookies": "~1.2.26",
+    "lodash": "~2.4.1",
+    "angular-loading-bar": "~0.6.0"
+  }
+}
